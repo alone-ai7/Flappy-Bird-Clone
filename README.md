@@ -51,4 +51,4 @@ The project follows a clean, decoupled directory structure typical of production
 ---
 
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and WILL BE available under the [MIT License](LICENSE).
