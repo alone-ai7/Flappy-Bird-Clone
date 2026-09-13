@@ -9,7 +9,7 @@ CHAPTER 1: THE PROBLEM AND ITS BACKGROUND
 
 Abstract
 
-This study focuses on the development of a 2D arcade game entitled ìFlappy Birdî using the Godot Engine 3.5.3 and GDScript. The primary objective of this game is to learn the fundamentals of 2D game development as a solo developer. The game follows a simple core loop where the player taps to make a bird flap and avoid obstacles to achieve a high schore. Godot 3.5.3 was chosen as the game engine due to its lightweight nature and suitability for 2D projects. The development process includes game design, implementation of mechanics such as gravity and collision, and exporting the game to PC and mobile platforms. The expected outcome of this study is a working game and improved understanding of Godot 2D and GDScript fo future projects.
+This study focuses on the development of a 2D arcade game entitled ‚ÄúFlappy Bird‚Äù using the Godot Engine 3.5.3 and GDScript. The primary objective of this game is to learn the fundamentals of 2D game development as a solo developer. The game follows a simple core loop where the player taps to make a bird flap and avoid obstacles to achieve a high schore. Godot 3.5.3 was chosen as the game engine due to its lightweight nature and suitability for 2D projects. The development process includes game design, implementation of mechanics such as gravity and collision, and exporting the game to PC and mobile platforms. The expected outcome of this study is a working game and improved understanding of Godot 2D and GDScript fo future projects.
 
 
 Background of the Study
@@ -18,7 +18,7 @@ Game development is a growing field that allows individuals to express creativit
 
 Godot Engine 3.5.3 was selected for this study because it is lightweight and can run efficiently on low to mid-range computers. Unlike other commercial game engines that require high-end hardware, Godot provides an accessible entry point for aspiring developers with limited PC resources. Its open-source nature and focus on 2D development also make it ideal for learning fundamental game development concepts.
 
-ìFlappy Birdî was chosen as the project for this study because of its simple mechanics and suitability for beginners. The gameís core loop involves player input, gravity, and collision detection, which are essential concepts in 2D game development. By developing this game, the researcher aims to gain a deep understanding of both the mechanics of a game engine and the design of the game itself. This project also serves to document the learning journey and challenges encountered during development, particularly in overcoming the limitations of hardware and experience as a solo beginner developer.
+‚ÄúFlappy Bird‚Äù was chosen as the project for this study because of its simple mechanics and suitability for beginners. The game‚Äôs core loop involves player input, gravity, and collision detection, which are essential concepts in 2D game development. By developing this game, the researcher aims to gain a deep understanding of both the mechanics of a game engine and the design of the game itself. This project also serves to document the learning journey and challenges encountered during development, particularly in overcoming the limitations of hardware and experience as a solo beginner developer.
 
 
 Statement of the Problem
@@ -29,7 +29,7 @@ This study aims to answer the following question:
 
 1.1 How can a beginner overcome difficulties in coding and game design when learning 2D game development using Godot 3.5.3?
 
-1.2 What are the step-by-step processes and core mechanics involved in developing a simple 2D arcade game such as ìFlappy Birdî?
+1.2 What are the step-by-step processes and core mechanics involved in developing a simple 2D arcade game such as ‚ÄúFlappy Bird‚Äù?
 
 1.3 How can this development journey be documented to serve as guide for other beginners who want to start with 2D games before moving to 3D?
 
@@ -48,7 +48,7 @@ To ship the game and export it as a mobile app and pc app that i can play and sh
 
 Scope and Limitation
 
-This study focuses only on the development of a 2D arcade game ìFlappy Birdî using Godot 3.5.3.
+This study focuses only on the development of a 2D arcade game ‚ÄúFlappy Bird‚Äù using Godot 3.5.3.
 
 Scope:
 
