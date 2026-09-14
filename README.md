@@ -51,4 +51,6 @@ The project follows a clean, decoupled directory structure typical of production
 ---
 
 ## 📄 License
-This project is open-source and WILL BE available under the [MIT License](LICENSE).
+
+This project is a work-in-progress open-source utility licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for the full copyright and permission notice.
+
