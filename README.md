@@ -4,6 +4,7 @@ A lightweight, mobile-optimized 2D arcade game built from scratch using the **Go
 
 > ⚠️ **Project Status: Active Development (WIP)**  
 > The core systems are currently being mapped out and built. This repository documents the step-by-step progress from structural design to a deployment-ready production build.
+> This might take a while as expected since I want to progress at pygame and the basics of Godot first. sorry not sorry
 
 ---
 
